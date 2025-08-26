@@ -1,15 +1,16 @@
-.cm,
-.ncm {
+.red,
+.blue {
   font-size: 28px;
   font-family: "Helvetica", "Times New Roman", sans-serif;
 }
 
-.cm {
+.red {
   background-color: black;
   color: white;
 }
 
-.ncm {
+.blue {
   background-color: yellow;
 }
+
 
